@@ -6,7 +6,7 @@ I study Go and Zig because compiled languages are fun. I work in Python and Type
 
 ## Repos
 
-- **homelab**: Docker Compose configs for my fleet. Templates only. If you scan my open ports, you land on 
+- **homelab**: Docker Compose configs for my fleet. Templates only.
 - **backend-auth-service**: NestJS auth service. Users, applications, roles and tokens.
 
 ## Writing
