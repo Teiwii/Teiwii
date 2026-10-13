@@ -1,16 +1,14 @@
-## Hi there 👋
+# Teiwii
 
-<!--
-**Teiwii/Teiwii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nothing about nothing.
 
-Here are some ideas to get you started:
+I study Go and Zig because compiled languages are fun. I work in Python and TypeScript. I run a small fleet of servers and take networks apart to understand them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repos
+
+- **homelab**: Docker Compose configs for my fleet. Templates only. If you scan my open ports, you land on 
+- **backend-auth-service**: NestJS auth service. Users, applications, roles and tokens.
+
+## Writing
+
+I post on Telegram at [\[Kitty Code\]](https://t.me/KittyCode_teiwo). The blog is being rebuilt at [\[nothing\]](https://nothing.teiwi.art/).
